@@ -1,0 +1,18 @@
+Ideen für Projekte die ich umsetzen will:
+
+Übergeordnetes Ziel: Unternehmerisch Geld verdienen!
+
+Youtube Videos -> Geht durch die Corona Pandemie momentan schlecht (Goal 20 Videos)
+Lenard Affiliate Links bewerben -> Dauert eh noch
+Coding Projekt -> Bis zum 25ten fertig! Alles geben und das ist jetzt das Projekt für nach der Uni!
+
+Coding Projekt für die nächsten 2 Wochen!
+-> Soll dieses mal ein weniger besser aussehen!
+
+//2 - 3 Base colors
+
+
+-> Tägliche Aufgaben (Deutsch, Mathe, Englisch) + hosten!
+-> Sagen ob Eingabe richtig oder falsch ist
+-> Button mit Show Solution
+-> Sidebar mehrere Kategorien
